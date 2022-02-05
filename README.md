@@ -1,5 +1,6 @@
 # Enemigos5
-Recyclerview-VievModel-LiveData on Android with Kotlin
+Recyclerview-VievModel-LiveData on Android with Kotlin.
+
 Es muy simple:
 - Pulsando el botón 'suma' seañade un enemigo a la lista (nombre y porcentaje de energía, aleatorios)
 - Pulsando el botón 'recargar' se limpia la lista
