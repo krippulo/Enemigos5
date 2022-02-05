@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/insertar"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="Insertar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/reiniciar"
+        android:icon="@drawable/ic_baseline_restart_alt_24"
+        android:title="Reiniciar"
+        app:showAsAction="ifRoom" />
+</menu>
